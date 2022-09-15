@@ -1,0 +1,10 @@
+{
+  "name": "@adventurer/adventure",
+  "version": "1.0.0",
+  "description": "A simple module to help create adventure like games",
+  "main": "dist/index.js",
+  "scripts": {
+  },
+  "author": "Tim (Light)",
+  "license": "ISC"
+}
